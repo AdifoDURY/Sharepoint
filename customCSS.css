@@ -26,6 +26,11 @@ word-break:normal;
 line-height:normal;
 }
 
+.ms-compositeHeader
+{
+  display:none;
+}
+
 
 .canvasSpacerSection_16b0ab87
 {
