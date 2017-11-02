@@ -1,9 +1,4 @@
 body
 {
-  background : black;
-}
-
-#ctl00_PlaceHolderSiteName_onetidProjectPropertyTitle1
-{
-  display:none;
+  background-color: black;
 }
